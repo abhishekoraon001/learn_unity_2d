@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: b8ed9ceb4a42cf44a9c44edba04fc6b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8836479450911087995
+    second: Actor2RMVX-GB_0
+  - first:
+      213: 870598192606066088
+    second: Actor2RMVX-GB_1
+  - first:
+      213: 3435052163235087341
+    second: Actor2RMVX-GB_2
+  - first:
+      213: 5116661612905815631
+    second: Actor2RMVX-GB_3
+  - first:
+      213: 6473405390825737680
+    second: Actor2RMVX-GB_4
+  - first:
+      213: -5210156761766204648
+    second: Actor2RMVX-GB_5
+  - first:
+      213: 5410652451981780950
+    second: Actor2RMVX-GB_6
+  - first:
+      213: 105861896070028096
+    second: Actor2RMVX-GB_7
+  - first:
+      213: -628397839188306591
+    second: Actor2RMVX-GB_8
+  - first:
+      213: 3755263262824190243
+    second: Actor2RMVX-GB_9
+  - first:
+      213: -2022840482261556917
+    second: Actor2RMVX-GB_10
+  - first:
+      213: -5412857175530806330
+    second: Actor2RMVX-GB_11
+  - first:
+      213: -6095465072035640818
+    second: Actor2RMVX-GB_12
+  - first:
+      213: -7926381508559550197
+    second: Actor2RMVX-GB_13
+  - first:
+      213: 2359235693905156075
+    second: Actor2RMVX-GB_14
+  - first:
+      213: -2361841838180558001
+    second: Actor2RMVX-GB_15
+  - first:
+      213: 5677727993471742012
+    second: Actor2RMVX-GB_16
+  - first:
+      213: 7736912335630014953
+    second: Actor2RMVX-GB_17
+  - first:
+      213: -5967635797926471856
+    second: Actor2RMVX-GB_18
+  - first:
+      213: 27951856782049030
+    second: Actor2RMVX-GB_19
+  - first:
+      213: -2836199757649095043
+    second: Actor2RMVX-GB_20
+  - first:
+      213: -3044156156810537698
+    second: Actor2RMVX-GB_21
+  - first:
+      213: -8798851529098474726
+    second: Actor2RMVX-GB_22
+  - first:
+      213: 286160388838116632
+    second: Actor2RMVX-GB_23
+  - first:
+      213: -8779960884172841706
+    second: Actor2RMVX-GB_24
+  - first:
+      213: -521964783002719382
+    second: Actor2RMVX-GB_25
+  - first:
+      213: 7437185649800405503
+    second: Actor2RMVX-GB_26
+  - first:
+      213: -3697428392627376889
+    second: Actor2RMVX-GB_27
+  - first:
+      213: -7446087520890452221
+    second: Actor2RMVX-GB_28
+  - first:
+      213: -7763139187496911949
+    second: Actor2RMVX-GB_29
+  - first:
+      213: -2042752458350923939
+    second: Actor2RMVX-GB_30
+  - first:
+      213: 8288436700441159635
+    second: Actor2RMVX-GB_31
+  - first:
+      213: 8104027232481973405
+    second: Actor2RMVX-GB_32
+  - first:
+      213: -604421637415109836
+    second: Actor2RMVX-GB_33
+  - first:
+      213: 4875969354689422945
+    second: Actor2RMVX-GB_34
+  - first:
+      213: 2653615019782246154
+    second: Actor2RMVX-GB_35
+  - first:
+      213: 9146179356405972841
+    second: Actor2RMVX-GB_36
+  - first:
+      213: -9086070119105186612
+    second: Actor2RMVX-GB_37
+  - first:
+      213: 7354157260688677463
+    second: Actor2RMVX-GB_38
+  - first:
+      213: -1353666675013446852
+    second: Actor2RMVX-GB_39
+  - first:
+      213: -1521621732649238637
+    second: Actor2RMVX-GB_40
+  - first:
+      213: 8483406275663788655
+    second: Actor2RMVX-GB_41
+  - first:
+      213: -3492543295190954915
+    second: Actor2RMVX-GB_42
+  - first:
+      213: -5028954281292384579
+    second: Actor2RMVX-GB_43
+  - first:
+      213: -6504214686196709511
+    second: Actor2RMVX-GB_44
+  - first:
+      213: 7254556532059094702
+    second: Actor2RMVX-GB_45
+  - first:
+      213: -1858678537564238516
+    second: Actor2RMVX-GB_46
+  - first:
+      213: -8361666642676681931
+    second: Actor2RMVX-GB_47
+  - first:
+      213: 1693571638466313042
+    second: Actor2RMVX-GB_48
+  - first:
+      213: -9018072728677910208
+    second: Actor2RMVX-GB_49
+  - first:
+      213: 5497813160963438363
+    second: Actor2RMVX-GB_50
+  - first:
+      213: -5962502971730441937
+    second: Actor2RMVX-GB_51
+  - first:
+      213: 1209436096854931200
+    second: Actor2RMVX-GB_52
+  - first:
+      213: -4186353197009131288
+    second: Actor2RMVX-GB_53
+  - first:
+      213: -285970309988712554
+    second: Actor2RMVX-GB_54
+  - first:
+      213: -2573652306073936723
+    second: Actor2RMVX-GB_55
+  - first:
+      213: -8164726530733290304
+    second: Actor2RMVX-GB_56
+  - first:
+      213: -5269570993294223567
+    second: Actor2RMVX-GB_57
+  - first:
+      213: -8275923304318356175
+    second: Actor2RMVX-GB_58
+  - first:
+      213: 4478834045792069529
+    second: Actor2RMVX-GB_59
+  - first:
+      213: 4674502907265632588
+    second: Actor2RMVX-GB_60
+  - first:
+      213: 5452543631640837184
+    second: Actor2RMVX-GB_61
+  - first:
+      213: 1354204436368203071
+    second: Actor2RMVX-GB_62
+  - first:
+      213: 7945109074890812585
+    second: Actor2RMVX-GB_63
+  - first:
+      213: -2985769491958150910
+    second: Actor2RMVX-GB_64
+  - first:
+      213: 796208503551169574
+    second: Actor2RMVX-GB_65
+  - first:
+      213: 2756652168421670016
+    second: Actor2RMVX-GB_66
+  - first:
+      213: -8505781345945096994
+    second: Actor2RMVX-GB_67
+  - first:
+      213: -8618006821958284882
+    second: Actor2RMVX-GB_68
+  - first:
+      213: -6576676972694744892
+    second: Actor2RMVX-GB_69
+  - first:
+      213: 3156637329865016791
+    second: Actor2RMVX-GB_70
+  - first:
+      213: -2082212054818811849
+    second: Actor2RMVX-GB_71
+  - first:
+      213: -9021064824481509516
+    second: Actor2RMVX-GB_72
+  - first:
+      213: 6284216913181796709
+    second: Actor2RMVX-GB_73
+  - first:
+      213: -2885416258978755389
+    second: Actor2RMVX-GB_74
+  - first:
+      213: -866397542586313115
+    second: Actor2RMVX-GB_75
+  - first:
+      213: 7875184695911524065
+    second: Actor2RMVX-GB_76
+  - first:
+      213: 5034868998529191985
+    second: Actor2RMVX-GB_77
+  - first:
+      213: 90495397831480701
+    second: Actor2RMVX-GB_78
+  - first:
+      213: -3404324881049127476
+    second: Actor2RMVX-GB_79
+  - first:
+      213: 2633364234965813797
+    second: Actor2RMVX-GB_80
+  - first:
+      213: 3937246606685297958
+    second: Actor2RMVX-GB_81
+  - first:
+      213: 8941728255899985122
+    second: Actor2RMVX-GB_82
+  - first:
+      213: 5673057554613810537
+    second: Actor2RMVX-GB_83
+  - first:
+      213: 7060676849614221060
+    second: Actor2RMVX-GB_84
+  - first:
+      213: -224814778889640901
+    second: Actor2RMVX-GB_85
+  - first:
+      213: -3977584858710184555
+    second: Actor2RMVX-GB_86
+  - first:
+      213: -3099447210114483843
+    second: Actor2RMVX-GB_87
+  - first:
+      213: 8824090416532465242
+    second: Actor2RMVX-GB_88
+  - first:
+      213: 1593344027677188001
+    second: Actor2RMVX-GB_89
+  - first:
+      213: 5496449079510269873
+    second: Actor2RMVX-GB_90
+  - first:
+      213: -5424967741113421304
+    second: Actor2RMVX-GB_91
+  - first:
+      213: 7005192149316397781
+    second: Actor2RMVX-GB_92
+  - first:
+      213: 8001826106682037514
+    second: Actor2RMVX-GB_93
+  - first:
+      213: -5064454140738519539
+    second: Actor2RMVX-GB_94
+  - first:
+      213: -2840771214140413142
+    second: Actor2RMVX-GB_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 675
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e76fc1c48e5580800000000000000
+      internalID: -8836479450911087995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 678
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b16c817cf41c00800000000000000
+      internalID: 870598192606066088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 675
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de380962eb1cbaf20800000000000000
+      internalID: 3435052163235087341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 675
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed021b0a8020740800000000000000
+      internalID: 5116661612905815631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 678
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4447c7e726d950800000000000000
+      internalID: 6473405390825737680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 675
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b63de970ec1b7b0800000000000000
+      internalID: -5210156761766204648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 678
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7687bfcbf761b40800000000000000
+      internalID: 5410652451981780950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 681
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd08665d8187100800000000000000
+      internalID: 105861896070028096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 678
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165de81ae7b7747f0800000000000000
+      internalID: -628397839188306591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 678
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d5b29a006d1430800000000000000
+      internalID: 3755263262824190243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 681
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4125818c4d6de3e0800000000000000
+      internalID: -2022840482261556917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 678
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ef80d31ba1e4b0800000000000000
+      internalID: -5412857175530806330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 579
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac388efce886ba0800000000000000
+      internalID: -6095465072035640818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 579
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0945148306dff190800000000000000
+      internalID: -7926381508559550197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 579
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be793a42d50bdb020800000000000000
+      internalID: 2359235693905156075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 579
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b979b9c5d093fd0800000000000000
+      internalID: -2361841838180558001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 579
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30bc2637875bce40800000000000000
+      internalID: 5677727993471742012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 579
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9909ff6c80f5b60800000000000000
+      internalID: 7736912335630014953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 582
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05710b31cd2be2da0800000000000000
+      internalID: -5967635797926471856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 582
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7e4ec01e436000800000000000000
+      internalID: 27951856782049030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_20
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 582
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76d645e85bc3a8d0800000000000000
+      internalID: -2836199757649095043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_21
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 582
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e155d70aa1cf0c5d0800000000000000
+      internalID: -3044156156810537698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_22
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 582
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bcea0172334e580800000000000000
+      internalID: -8798851529098474726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 582
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dcb758b55a8f300800000000000000
+      internalID: 286160388838116632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 483
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9d051810572680800000000000000
+      internalID: -8779960884172841706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 483
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bebdb9bcb91c8f0800000000000000
+      internalID: -521964783002719382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 483
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16cf0d1f0363760800000000000000
+      internalID: 7437185649800405503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 483
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d600b777810bcc0800000000000000
+      internalID: -3697428392627376889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 483
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070bdec9de2aa890800000000000000
+      internalID: -7446087520890452221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 483
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf4533a0ac34490800000000000000
+      internalID: -7763139187496911949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 486
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fefeb467fa6a3e0800000000000000
+      internalID: -2042752458350923939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_31
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 486
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d72b19d341760370800000000000000
+      internalID: 8288436700441159635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 486
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941e2ab4d9477070800000000000000
+      internalID: 8104027232481973405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 486
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bff4f19b9ac97f0800000000000000
+      internalID: -604421637415109836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 486
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16624f94b4ceaa340800000000000000
+      internalID: 4875969354689422945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 486
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f03c01dc883d420800000000000000
+      internalID: 2653615019782246154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 390
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb6968aa1cdee70800000000000000
+      internalID: 9146179356405972841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 387
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b172ed5bc7e180800000000000000
+      internalID: -9086070119105186612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 390
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a55b980173f0660800000000000000
+      internalID: 7354157260688677463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 390
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331a83c45fc63de0800000000000000
+      internalID: -1353666675013446852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 387
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f7de6981d12eae0800000000000000
+      internalID: -1521621732649238637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a724a8f0d1bb570800000000000000
+      internalID: 8483406275663788655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 393
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c8877906ef78fc0800000000000000
+      internalID: -3492543295190954915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 390
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db633e7c9b0953ab0800000000000000
+      internalID: -5028954281292384579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_44
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 393
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977cd5624336cb5a0800000000000000
+      internalID: -6504214686196709511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_45
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 393
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3f58cabc5da460800000000000000
+      internalID: 7254556532059094702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_46
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 390
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d47d0c7b5a436e0800000000000000
+      internalID: -1858678537564238516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_47
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 393
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533f5019d7465fb80800000000000000
+      internalID: -8361666642676681931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 291
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bf578ae66c08710800000000000000
+      internalID: 1693571638466313042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 294
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f38012ae59d280800000000000000
+      internalID: -9018072728677910208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 291
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1771b4f0f72c4c40800000000000000
+      internalID: 5497813160963438363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 291
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29cbcd432fe04da0800000000000000
+      internalID: -5962502971730441937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 294
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b293e8b7c8c010800000000000000
+      internalID: 1209436096854931200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 291
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e823f392f517e5c0800000000000000
+      internalID: -4186353197009131288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 291
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f70d8a487080cf0800000000000000
+      internalID: -285970309988712554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_55
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 294
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac19190ddc884cd0800000000000000
+      internalID: -2573652306073936723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_56
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 291
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4f679a7011be80800000000000000
+      internalID: -8164726530733290304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_57
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 291
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137def9d919bed6b0800000000000000
+      internalID: -5269570993294223567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_58
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 294
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1353ab93a93062d80800000000000000
+      internalID: -8275923304318356175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_59
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 291
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ac53b5d3082e30800000000000000
+      internalID: 4478834045792069529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c494919a0ab2fd040800000000000000
+      internalID: 4674502907265632588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 195
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c354e4b835bab40800000000000000
+      internalID: 5452543631640837184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 195
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d1cfe82c91bc210800000000000000
+      internalID: 1354204436368203071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac699ecb92b24e60800000000000000
+      internalID: 7945109074890812585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_64
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 195
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c2a2677a6096d0800000000000000
+      internalID: -2985769491958150910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_65
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 195
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624105d5a63bc0b00800000000000000
+      internalID: 796208503551169574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 195
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c7514ba88914620800000000000000
+      internalID: 2756652168421670016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_67
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 195
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc6cc17ee465f980800000000000000
+      internalID: -8505781345945096994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_68
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 195
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98841a470b66880800000000000000
+      internalID: -8618006821958284882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_69
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 195
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d9085323fab4a0800000000000000
+      internalID: -6576676972694744892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_70
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 195
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5875b4de0aecb20800000000000000
+      internalID: 3156637329865016791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_71
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 195
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7301d7d0b2f7a13e0800000000000000
+      internalID: -2082212054818811849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 99
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0209765dbec280800000000000000
+      internalID: -9021064824481509516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 99
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e3b1ccf5063750800000000000000
+      internalID: 6284216913181796709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 99
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc4f663331f4f7d0800000000000000
+      internalID: -2885416258978755389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_75
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 99
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5661fdf7600f9f3f0800000000000000
+      internalID: -866397542586313115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_76
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 99
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62664a1c64a4d60800000000000000
+      internalID: 7875184695911524065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_77
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 99
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13095f3ada27fd540800000000000000
+      internalID: 5034868998529191985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_78
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 99
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759d89b511814100800000000000000
+      internalID: 90495397831480701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_79
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 99
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5fa0dbe8861c0d0800000000000000
+      internalID: -3404324881049127476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_80
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 99
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0b5dc1d69b8420800000000000000
+      internalID: 2633364234965813797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 99
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dd698ade8e3a630800000000000000
+      internalID: 3937246606685297958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_82
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 99
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4edf23976671c70800000000000000
+      internalID: 8941728255899985122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_83
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 99
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653a1de9cfbabe40800000000000000
+      internalID: 5673057554613810537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f64178f209cf160800000000000000
+      internalID: 7060676849614221060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346604562c41ecf0800000000000000
+      internalID: -224814778889640901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_86
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6b9825a7ccc8c0800000000000000
+      internalID: -3977584858710184555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79fc091f2d8cf4d0800000000000000
+      internalID: -3099447210114483843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a8575b77757a70800000000000000
+      internalID: 8824090416532465242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_89
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 6
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af50b683f1bc1610800000000000000
+      internalID: 1593344027677188001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_90
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 6
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7b3ef05f474c40800000000000000
+      internalID: 5496449079510269873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_91
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8023bf80594a6b4b0800000000000000
+      internalID: -5424967741113421304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_92
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 6
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daeb5b0521773160800000000000000
+      internalID: 7005192149316397781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_93
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 6
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05da33d2723c0f60800000000000000
+      internalID: 8001826106682037514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_94
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3608aac177b9b0800000000000000
+      internalID: -5064454140738519539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Actor2RMVX-GB_95
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 6
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b610db1ad8398d0800000000000000
+      internalID: -2840771214140413142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
