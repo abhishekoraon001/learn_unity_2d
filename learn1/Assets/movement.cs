@@ -70,13 +70,13 @@ animator.SetBool("left",false);
         hit = Physics2D.BoxCast(transform.position,boxcollider.size,0,new Vector2(0,moveDelta.y),Mathf.Abs(moveDelta.y*Time.deltaTime),LayerMask.GetMask("characters","blocking"));
         if(hit.collider == null)
         {
-        transform.Translate(0,moveDelta.y*Time.deltaTime,0);
+        transform.Translate(0,moveDelta.y*2*Time.deltaTime,0);
         }
 
         hit = Physics2D.BoxCast(transform.position,boxcollider.size,0,new Vector2(moveDelta.x,0),Mathf.Abs(moveDelta.x*Time.deltaTime),LayerMask.GetMask("characters","blocking"));
                 if(hit.collider == null)
                 {
-                transform.Translate(moveDelta.x*Time.deltaTime,0,0);
+                transform.Translate(moveDelta.x*2*Time.deltaTime,0,0);
                 }
     }
 }
