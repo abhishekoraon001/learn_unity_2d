@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: 9202163618114184290
     second: chest_ closed
+  - first:
+      213: 5803455356149086885
+    second: open chest 1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -126,7 +129,7 @@ TextureImporter:
         width: 40
         height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,6 +137,27 @@ TextureImporter:
       bones: []
       spriteID: 26428b63e07a4bf70800000000000000
       internalID: 9202163618114184290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open chest 1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 457
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaba1df5e30a8050800000000000000
+      internalID: 5803455356149086885
       vertices: []
       indices: 
       edges: []
